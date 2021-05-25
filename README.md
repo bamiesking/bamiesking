@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=bamiesking"  style="width:300px; height:20px;"></iframe>
+[Website](https://bamiesking.uk) / [Twitter](https://twitter.com/bamiesking) / [LinkedIn](https://linked.com/in/bamiesking)
 
 I'm Ben (he/him), and I'm a physics student currently finishing my MPhys in Theoretical Physics at Durham University. In October 2021, I'll start a PhD at the University of York, within the York Centre for Quantum Technologies, working on a project titled 'Experimental quantum communications at any scale'.
 
