@@ -6,6 +6,9 @@ I'm Ben (he/him), and I'm a physics student currently finishing my MPhys in Theo
 
 I also like to pretend to be a programmer, with particular interests in services built with Flask backends.
 
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamiesking)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bamiesking/bamiesking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
