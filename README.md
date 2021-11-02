@@ -2,7 +2,7 @@
 
 [Website](https://bamiesking.uk) / [Twitter](https://twitter.com/bamiesking) / [LinkedIn](https://linkedin.com/in/bamiesking)
 
-I'm Ben (he/him), and I'm a physics student currently finishing my MPhys in Theoretical Physics at Durham University. In October 2021, I'll start a PhD at the University of York, within the York Centre for Quantum Technologies, working on a project titled 'Experimental quantum communications at any scale'.
+I'm Ben (he/him), and I'm a PhD student at the University of York, within the York Centre for Quantum Technologies, working on a project titled 'Experimental quantum communications at any scale'. 
 
 I also like to pretend to be a programmer, with particular interests in services built with Flask backends.
 
