@@ -2,9 +2,9 @@
 
 [Website](https://bamiesking.uk) / [Twitter](https://twitter.com/bamiesking) / [LinkedIn](https://linkedin.com/in/bamiesking)
 
-I'm Ben (he/him), and I'm a PhD student at the University of York, within the York Centre for Quantum Technologies, working on a project titled 'Experimental quantum communications at any scale'. 
+I'm Ben (he/him), and I'm a PhD student at the University of York, within the York Centre for Quantum Technologies, working on phase control in QKD systems. 
 
-I also like to pretend to be a programmer, with particular interests in services built with Flask backends.
+I also like to pretend to be a programmer, with particular interests in web services built with Flask backends.
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamiesking)](https://github.com/anuraghazra/github-readme-stats)
 
